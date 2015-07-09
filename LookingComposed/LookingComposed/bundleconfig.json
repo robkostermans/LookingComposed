@@ -1,0 +1,16 @@
+[
+  {
+    "outputFileName": "LookingComposed.js",
+    "inputFiles": [
+      "js/lc-libs.js",
+      "js/lc-init.js",
+      "js/lc-ui.js",
+      "js/lc-token.js"
+    ],
+    "minify": {
+      "enabled": true
+    },
+    "includeInProject": true,
+    "sourceMaps": true
+  }
+]
